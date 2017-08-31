@@ -1,0 +1,2 @@
+x = "testomg"
+print x

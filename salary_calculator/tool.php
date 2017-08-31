@@ -41,6 +41,7 @@
   ?>
 
   <body>
+	<h1>Calculator Tool Original</h1>
 	<table width="900" border="0" cellspacing="4" cellpadding="4">
 	<tbody>
 		<form method="post" action="tool.php">
