@@ -7,6 +7,7 @@
 		body {
 			font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 			font-size:14px;
+			font-style:normal;
 		}	
 	</style>
   </head>
@@ -40,7 +41,7 @@
   ?>
 
   <body>
-	<table width="700" border="0" cellspacing="3" cellpadding="3">
+	<table width="900" border="0" cellspacing="4" cellpadding="4">
 	<tbody>
 		<form method="post" action="tool.php">
 		<tr>
@@ -76,7 +77,7 @@
 	<?php
 	  if ($strMethod == "Calc") {
 	?>
-	<table width="700" border="0" cellspacing="3" cellpadding="3">
+	<table width="900" border="0" cellspacing="4" cellpadding="4">
 	<tbody>	
 		<tr>
 			<td>&nbsp;</td>
